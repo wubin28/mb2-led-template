@@ -1,4 +1,4 @@
-# An embedded Rust project template for the micro:bit v2
+# A template for lighting up an LED on a micro:bit v2 board
 
 ## How to generate a new project
 
